@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-06T01:47:33.170Z
-Commit: Add export functionality for reports
+Timestamp: 2025-11-06T01:47:45.530Z
+Commit: Fix race condition in async operations
